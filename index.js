@@ -9,4 +9,4 @@ const num3 = 64
 const num4 = 60
 let mod = num3 % num4
 
-let max = Math.max(12, 13, 17, 19, 20);
+let max = Math.max(12, 13, 17, 19, 20); 
